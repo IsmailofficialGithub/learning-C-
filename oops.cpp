@@ -33,7 +33,7 @@ class bookInfo{
                if(avilable){
                     cout<<"Book is Avalible ";
                }else{
-                    cout<<"Book is Not Avalible ";
+                    cout<<"Book is Not Avalible "; 
                }
           }
 };
