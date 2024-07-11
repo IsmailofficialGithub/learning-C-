@@ -75,10 +75,13 @@ using namespace std;
      };
 
      int main(){
+
+          // ======// book info object 
           // bookInfo book1("The Great Gatsby","Ismail Abbasi","9780743273565");
           // book1.displayBookInfo();
           // book1.isAbilable();
 
+          // ======// Employee detail object 
           employeeInfo emp1("ismail abbasi",540,"softwareEngenier",34.344);
           employeeInfo emp2("ALi",541,"webDeveloper",54.344);
           emp1,emp2.displayempolyeeInfo();
